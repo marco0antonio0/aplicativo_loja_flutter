@@ -1,6 +1,8 @@
 # Aplicativo de loja generico flutter
 ![img](Img_app/app_img.png)
 ### Desenvolvimento do aplicativo Loja da padaria 
+    Imagem a cima, Layout acima feito no aplicativo figma 
+     
 ## 👨‍🔧 Desenvolvimento da Tela Inicial
 ![img](Img_app/home_img.png)
 ## Andamento 
