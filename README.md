@@ -1,6 +1,5 @@
-# aplicativo_loja_flutter
 # Aplicativo de loja generico flutter
-![img](app_img.png)
+![img](Img_app/app_img.png)
 ### Desenvolvimento do aplicativo Loja da padaria 
 ## 👨‍🔧  🚧 Em andamento 🚧 
 ## Objetivo
